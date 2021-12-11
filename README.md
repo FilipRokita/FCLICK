@@ -15,10 +15,7 @@ pip install -r requirements.txt
 ```
 
 # Usage
-1. Run FCLICK by:
-```
-python3 FCLICK.py
-```
+1. Run FCLICK
 2. Select button you want to start FCLICK with
 3. Put cursor on the pixel that you want to click when it changes color
 4. Click selected start button
