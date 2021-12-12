@@ -1,7 +1,7 @@
 # FCLICK
 Script that clicks left mouse button when it detects a color change in a given pixel. Just run the script, select the key you want to run the program with, then point the cursor to the pixel you want to click when it changes color and push the previously selected key. When the pixel changes color, the script automatically clicks it.<br/>
 <br/>
-<img src="FCLICK.png">
+<img src="FCLICK.png"/>
 
 # Installation
 You will need these packages to run FCLICK:
